@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ivl1c0vh6",
+        "title": "Veghana",
+        "description": "Kryddigt veganskt krubb utan krusiduller.",
+        "image": "logotypes/veghana.png",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.104241,
+          51.52335
+        ],
+        "type": "Point"
+      },
+      "id": "342747462e967b5e21a54f21fd69d46f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ivl19jzc3",
+        "title": "El Cerdo – Taqueria & Tocineta",
+        "description": "Smakexplosioner i fantastiska\nkombinationer med knorr.",
+        "image":"logotypes/el-cerdo.png",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.099188,
+          51.524558
+        ],
+        "type": "Point"
+      },
+      "id": "950286f073cf0241cd5aa493b24ed342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ivl18q7j2",
+        "title": "Café Inc",
+        "description": "Kaffevagn med koll på allt i kaffeväg.",
+        "image":"logotypes/cafeinc.png",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.101677,
+          51.522616
+        ],
+        "type": "Point"
+      },
+      "id": "992b6b330a18df65e6c1d5ad9db50611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ivl1b13n4",
+        "title": "Muxi Sushi",
+        "description": "Ditt livs bästa sushi, sashimi och\nmisosoppa.",
+        "image":"logotypes/muxi-sushi.png",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.104477,
+          51.524859
+        ],
+        "type": "Point"
+      },
+      "id": "af0f25cba5d80d20751c4d2068ae10ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ivl1blq55",
+        "title": "Surströmmingen",
+        "description": "Traditionell norrländsk cuisine med\naromatisk twist.",
+        "image":"logotypes/surstrommingen.png",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.101001,
+          51.524351
+        ],
+        "type": "Point"
+      },
+      "id": "c4c719f6e23a5be84a65a8497c226465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ivkzbq9i0",
+        "title": "Bears BBQ & Craft Beer",
+        "description": "Mustig, mysig mat med medföljande\nmikrobryggeri.",
+        "image":"logotypes/bears.png",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.096516,
+          51.524091
+        ],
+        "type": "Point"
+      },
+      "id": "e692f835bbea25c7e476911b81b73734"
+    }
+  ],
+
+  "id": "lpmapbox.24i26pee"
+}
